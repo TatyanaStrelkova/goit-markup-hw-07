@@ -1,0 +1,17 @@
+.logo {
+  display: block;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  text-decoration: none;
+}
+
+.logo__web {
+  color: $hover-text-color;
+  font-family: Raleway, sans-serif;
+}
+
+.logo__studio {
+  color: #000000;
+  font-family: Raleway, sans-serif;
+}
